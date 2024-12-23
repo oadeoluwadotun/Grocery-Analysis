@@ -12,9 +12,9 @@ Key steps:
 2. Prepared the cleaned dataset for visualization in Power BI.
 
 ## Files
-- `data/raw_grocery_data.csv`: Original dataset.
+- `data/GroceryDataset.csv`: Original dataset.
 - `data/cleaned_grocery_data.csv`: Cleaned dataset.
-- `notebooks/data_cleaning.ipynb`: Jupyter notebook with cleaning and analysis steps.
+- `notebooks/Grocery Data Analysis.ipynb`: Jupyter notebook with cleaning and analysis steps.
 
 ## Next Steps
 The cleaned data will be used to build dashboards in Power BI.
