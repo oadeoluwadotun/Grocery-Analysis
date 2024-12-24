@@ -94,7 +94,7 @@ The dataset was sourced from Kaggle and provides information about grocery items
 4. Explore the `cleaned_grocery_data.csv` file with Power BI.
 
 ## Contributing
-Feedback and contributions are welcome. Please open an issue or submit a pull request for any suggestions.
+Feedback and contributions are always welcome. Please open an issue or submit a pull request for any suggestions.
 
 ## Acknowledgments
 Thanks to Kaggle for providing the dataset and to God for the strength and insight to work on this project.
