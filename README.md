@@ -98,7 +98,7 @@ The dataset was sourced from Kaggle and provides information about grocery items
 ### Grocery Insights Dashboard
 After data cleaning in Python, I developed a dashboard in Power BI to visualise grocery trends. 
 - Key highlights include price distributions, product ratings, and sustainability insights.
-- [Download the .pbix file here]([link-to-file](https://github.com/oadeoluwadotun/Grocery-Analysis/blob/main/Power%20BI/Grocery%20Insight%20Dashboard.pbix)).
+- [Download the .pbix file here](https://github.com/oadeoluwadotun/Grocery-Analysis/blob/main/Power%20BI/Grocery%20Insight%20Dashboard.pbix).
 
 Here's a preview of the dashboard:
 
