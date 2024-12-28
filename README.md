@@ -102,7 +102,7 @@ After data cleaning in Python, I developed a dashboard in Power BI to visualise 
 
 Here's a preview of the dashboard:
 
-![Dashboard Preview](link-to-preview-image)
+![Dashboard Preview](https://github.com/oadeoluwadotun/Grocery-Analysis/blob/main/Power%20BI/Grocery%20Dashboard%20Preview.png)
 
 ## Contributing
 Feedback and contributions are always welcome. Please open an issue or submit a pull request for any suggestions.
